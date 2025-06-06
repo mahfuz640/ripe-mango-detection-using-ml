@@ -1,0 +1,7 @@
+dataset
+dist
+lightning_logs
+build
+full_model.pth
+model_weights.pth
+mango_predictor_gui.spec
