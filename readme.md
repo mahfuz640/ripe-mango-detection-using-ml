@@ -7,7 +7,7 @@ This project applies **Machine Learning** in agriculture to automatically detect
 ## 🎥 Project's Video
 
 👉 Watch the full video on Facebook:  
-[![Watch on Facebook]([https://i.imgur.com/2yaf2wb.png](https://live-production.wcms.abc-cdn.net.au/32613fbbb48b6b1fb5f709e195fcefb0?impolicy=wcms_crop_resize&cropH=576&cropW=1023&xPos=0&yPos=0&width=862&height=485))]([https://www.facebook.com/yourusername/videos/123456789012345](https://www.facebook.com/share/v/16bsCjPYEE/))
+[![Watch on Facebook]([https://i.imgur.com/2yaf2wb.png](https://live-production.wcms.abc-cdn.net.au/32613fbbb48b6b1fb5f709e195fcefb0?impolicy=wcms_crop_resize&cropH=576&cropW=1023&xPos=0&yPos=0&width=862&height=485))]([https://www.facebook.com/yourusername/videos/123456789012345](https://www.facebook.com/share/v/1EEEwbdKW2/))
 
 This helps in:
 - ✅ Better fruit selection
