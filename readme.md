@@ -4,6 +4,11 @@ Have you ever wondered how to choose the **perfect mango**?
 
 This project applies **Machine Learning** in agriculture to automatically detect the **ripeness stage of mangoes** — whether *unripe*, *ripe*, or *overripe* — using image classification via a simple and interactive **Tkinter GUI**.
 
+## 🎥 Demo Video
+
+👉 Watch the full video on Facebook:  
+[Click here to view on Facebook](https://www.facebook.com/share/v/16HBaErqAM/)
+
 This helps in:
 - ✅ Better fruit selection
 - 📦 Enhancing the agricultural supply chain
