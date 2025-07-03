@@ -72,6 +72,10 @@ A user-friendly desktop interface built with Python's `Tkinter`, allowing users 
 
 ---
 
+**Md. Mahfuzur Rahman**  
+AI & Robotics Engineer  
+
+
 ## 🌟 Motivation
 
 This project demonstrates how **AI and computer vision** can solve practical agricultural challenges and promote a **more sustainable food system**.
